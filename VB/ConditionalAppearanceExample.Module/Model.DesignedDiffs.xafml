@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ConditionalAppearanceExample" Logo="ExpressAppLogo">
+  <Views>
+    <DetailView Id="Product_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main">
+          <LayoutGroup Id="ProductParametersLayoutGroup" Index="0" ShowCaption="True" Caption="ProductParameters" IsNewNode="True">
+            <LayoutItem Id="Name" ViewItem="Name" Index="0" IsNewNode="True" />
+            <LayoutItem Id="Price" ViewItem="Price" Index="1" IsNewNode="True" />
+            <LayoutItem Id="Status" ViewItem="Status" Index="2" IsNewNode="True" />
+            <LayoutItem Id="Category" ViewItem="Category" Index="3" IsNewNode="True" />
+            <LayoutItem Id="DisabledProperty" IsNewNode="True" />
+          </LayoutGroup>
+          <LayoutGroup Id="SimpleEditors" Removed="True">
+            <LayoutGroup Id="Product" Removed="True" />
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
