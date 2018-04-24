@@ -32,7 +32,7 @@
          Me.module3 = New ConditionalAppearanceExample.Module.ConditionalAppearanceExampleModule()
          Me.module4 = New ConditionalAppearanceExample.Module.Win.ConditionalAppearanceExampleWindowsFormsModule()
          Me.securityModule1 = New DevExpress.ExpressApp.Security.SecurityModule()
-         DirectCast(Me, System.ComponentModel.ISupportInitialize).BeginInit()
+         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
          ' 
          ' module5
          ' 
@@ -50,7 +50,7 @@
          Me.Modules.Add(Me.module4)
          Me.Modules.Add(Me.module5)
          Me.Modules.Add(Me.module7)
-         DirectCast(Me, System.ComponentModel.ISupportInitialize).EndInit()
+         CType(Me, System.ComponentModel.ISupportInitialize).EndInit()
 
       End Sub
 

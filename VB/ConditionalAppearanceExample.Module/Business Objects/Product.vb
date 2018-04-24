@@ -84,10 +84,10 @@ Namespace ConditionalAppearanceExample.Module.Business_Objects
          Status = ProductStatus.Active
       End Sub
 
-      Public Const DeactivateConfirmationMessage As String = "This action will set the Product as inactive. There may be records in the system that continue to reference these inactive records." & ControlChars.CrLf & _
-ControlChars.CrLf & _
-"         If you want to continue, click Yes." & ControlChars.CrLf & _
-"         If you don't want to deactivate this Product, click No."
+      Public Const DeactivateConfirmationMessage As String = "This action will set the Product as inactive. There may be records in the system that continue to reference these inactive records.
+
+         If you want to continue, click Yes.
+         If you don't want to deactivate this Product, click No."
 
       <Action(PredefinedCategory.RecordEdit, Caption := "Deactivate Product...", AutoCommit := True, ConfirmationMessage := DeactivateConfirmationMessage, TargetObjectsCriteria := "Status = 'Active'", SelectionDependencyType := MethodActionSelectionDependencyType.RequireSingleObject)> _
       Public Sub Deactivate()
