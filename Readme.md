@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebConditionalAppearanceController.cs](./CS/ConditionalAppearanceExample.Module.Web/Controllers/WebConditionalAppearanceController.cs) (VB: [WebConditionalAppearanceController.vb](./VB/ConditionalAppearanceExample.Module.Web/Controllers/WebConditionalAppearanceController.vb))
+* [WinConditionalAppearanceController.cs](./CS/ConditionalAppearanceExample.Module.Win/Controllers/WinConditionalAppearanceController.cs) (VB: [WinConditionalAppearanceController.vb](./VB/ConditionalAppearanceExample.Module.Win/Controllers/WinConditionalAppearanceController.vb))
+* **[Product.cs](./CS/ConditionalAppearanceExample.Module/Business Objects/Product.cs) (VB: [Product.vb](./VB/ConditionalAppearanceExample.Module/Business Objects/Product.vb))**
+* [ConditionalAppearanceController.cs](./CS/ConditionalAppearanceExample.Module/Controllers/ConditionalAppearanceController.cs) (VB: [ConditionalAppearanceController.vb](./VB/ConditionalAppearanceExample.Module/Controllers/ConditionalAppearanceController.vb))
+<!-- default file list end -->
 # How to Apply Conditional Appearance
 
 
