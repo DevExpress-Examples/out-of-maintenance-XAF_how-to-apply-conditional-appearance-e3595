@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to Apply Conditional Appearance
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3595)**
+**[[Run Online]](https://codecentral.devexpress.com/e3595/)**
 <!-- run online end -->
 
 
