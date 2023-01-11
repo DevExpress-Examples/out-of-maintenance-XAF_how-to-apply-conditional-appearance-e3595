@@ -7,7 +7,7 @@
 *Files to look at*:
 
 * [WebConditionalAppearanceController.cs](./CS/ConditionalAppearanceExample.Module.Web/Controllers/WebConditionalAppearanceController.cs) (VB: [WebConditionalAppearanceController.vb](./VB/ConditionalAppearanceExample.Module.Web/Controllers/WebConditionalAppearanceController.vb))
-* [Updater.cs](./CS/ConditionalAppearanceExample.Module.Web/Database Update/Updater.cs) (VB: [Updater.vb](./VB/ConditionalAppearanceExample.Module.Web/Database Update/Updater.vb))
+
 * [WinConditionalAppearanceController.cs](./CS/ConditionalAppearanceExample.Module.Win/Controllers/WinConditionalAppearanceController.cs) (VB: [WinConditionalAppearanceController.vb](./VB/ConditionalAppearanceExample.Module.Win/Controllers/WinConditionalAppearanceController.vb))
 * [Model.DesignedDiffs.xafml](./CS/ConditionalAppearanceExample.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/ConditionalAppearanceExample.Module.Win/Model.DesignedDiffs.xafml))
 * [WinModule.cs](./CS/ConditionalAppearanceExample.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/ConditionalAppearanceExample.Module.Win/WinModule.vb))
